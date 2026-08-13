@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="SharpWing">
+  <rect width="128" height="128" rx="24" fill="#0B3D91"/>
+  <g fill="#FFFFFF">
+    <path d="M22 84 L92 24 L84 52 Z"/>
+    <path d="M22 96 L100 44 L94 70 Z" opacity="0.72"/>
+    <path d="M22 108 L108 66 L104 88 Z" opacity="0.44"/>
+  </g>
+</svg>

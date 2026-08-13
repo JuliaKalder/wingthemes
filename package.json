@@ -1,0 +1,14 @@
+{
+  "name": "wingthemes",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Thunderbird themes powered by wings.",
+  "author": "Julia Kalder <mail@julia-kalder.de>",
+  "license": "MIT",
+  "homepage": "https://github.com/JuliaKalder/wingthemes",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "check": "node tools/build.mjs --check"
+  }
+}

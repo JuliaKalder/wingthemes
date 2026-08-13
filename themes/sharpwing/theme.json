@@ -1,0 +1,114 @@
+{
+  "slug": "sharpwing",
+  "displayName": "SharpWing",
+  "version": "0.1.0",
+  "author": "Julia Kalder <mail@julia-kalder.de>",
+  "homepage_url": "https://github.com/JuliaKalder/wingthemes",
+  "strict_min_version": "128.0",
+
+  "variants": {
+    "light": {
+      "id": "sharpwing-light@julia-kalder.de",
+      "name": "SharpWing Light",
+      "description": "High-contrast light theme for Thunderbird. Every text pair meets WCAG AA.",
+      "color_scheme": "light",
+      "colors": {
+        "frame": "#DCDCDC",
+        "frame_inactive": "#DCDCDC",
+
+        "tab_selected": "#FFFFFF",
+        "tab_text": "#121212",
+        "tab_background_text": "#1A1A1A",
+        "tab_background_separator": "#6B6B6B",
+        "tab_line": "#0B3D91",
+        "tab_loading": "#0B3D91",
+
+        "toolbar": "#FFFFFF",
+        "toolbar_text": "#121212",
+        "toolbar_top_separator": "#6B6B6B",
+        "toolbar_bottom_separator": "#6B6B6B",
+        "toolbar_vertical_separator": "#6B6B6B",
+
+        "icons": "#1F1F1F",
+        "icons_attention": "#0B3D91",
+
+        "button_background_hover": "#D0D8E8",
+        "button_background_active": "#B0BEDA",
+
+        "toolbar_field": "#FFFFFF",
+        "toolbar_field_text": "#121212",
+        "toolbar_field_border": "#4A4A4A",
+        "toolbar_field_focus": "#FFFFFF",
+        "toolbar_field_text_focus": "#121212",
+        "toolbar_field_border_focus": "#0B3D91",
+        "toolbar_field_highlight": "#0B3D91",
+        "toolbar_field_highlight_text": "#FFFFFF",
+
+        "sidebar": "#F5F5F5",
+        "sidebar_text": "#121212",
+        "sidebar_border": "#6B6B6B",
+        "sidebar_highlight": "#0B3D91",
+        "sidebar_highlight_text": "#FFFFFF",
+        "sidebar_highlight_border": "#061F4A",
+
+        "popup": "#FFFFFF",
+        "popup_text": "#121212",
+        "popup_border": "#4A4A4A",
+        "popup_highlight": "#0B3D91",
+        "popup_highlight_text": "#FFFFFF"
+      }
+    },
+
+    "dark": {
+      "id": "sharpwing-dark@julia-kalder.de",
+      "name": "SharpWing Dark",
+      "description": "High-contrast dark theme for Thunderbird. Every text pair meets WCAG AA.",
+      "color_scheme": "dark",
+      "colors": {
+        "frame": "#101215",
+        "frame_inactive": "#101215",
+
+        "tab_selected": "#1C2026",
+        "tab_text": "#FFFFFF",
+        "tab_background_text": "#E8E8E8",
+        "tab_background_separator": "#8A8F98",
+        "tab_line": "#7FB2FF",
+        "tab_loading": "#7FB2FF",
+
+        "toolbar": "#1C2026",
+        "toolbar_text": "#F2F2F2",
+        "toolbar_top_separator": "#8A8F98",
+        "toolbar_bottom_separator": "#8A8F98",
+        "toolbar_vertical_separator": "#8A8F98",
+
+        "icons": "#E0E0E0",
+        "icons_attention": "#7FB2FF",
+
+        "button_background_hover": "#2A313A",
+        "button_background_active": "#39424E",
+
+        "toolbar_field": "#0D0F12",
+        "toolbar_field_text": "#F2F2F2",
+        "toolbar_field_border": "#8A8F98",
+        "toolbar_field_focus": "#14181D",
+        "toolbar_field_text_focus": "#FFFFFF",
+        "toolbar_field_border_focus": "#7FB2FF",
+        "toolbar_field_highlight": "#7FB2FF",
+        "toolbar_field_highlight_text": "#0A0C0F",
+
+        "sidebar": "#15181C",
+        "sidebar_text": "#F2F2F2",
+        "sidebar_border": "#8A8F98",
+        "sidebar_highlight": "#7FB2FF",
+        "sidebar_highlight_text": "#0A0C0F",
+        "sidebar_highlight_border": "#B9D5FF",
+
+        "popup": "#1C2026",
+        "popup_text": "#F2F2F2",
+        "popup_border": "#8A8F98",
+        "popup_highlight": "#7FB2FF",
+        "popup_highlight_text": "#0A0C0F"
+      }
+    }
+  }
+}
